@@ -3,8 +3,8 @@ Gotanda.pm とは
 =======================================================
 五反田(東京)を拠点とした技術コミュニティです。
 以下の目的のもと、小規模なカンファレンスの開催、IRCチャンネルによる交流などを中心とした活動を行います。
-近日の活動予定については[Googleカレンダー][https://www.google.com/calendar/embed?src=sfv70iikm6dpj7anvu0m0jjt1s%40group.calendar.google.com&ctz=Asia/Tokyo]をご確認下さい。
-不明な点、技術的な相談等は[#gotanda.pm@freenode][http://freenode.net/]にて行います。
+近日の活動予定については[Googleカレンダー](https://www.google.com/calendar/embed?src=sfv70iikm6dpj7anvu0m0jjt1s%40group.calendar.google.com&ctz=Asia/Tokyo)をご確認下さい。
+不明な点、技術的な相談等は[#gotanda.pm@freenode](http://freenode.net/)にて行います。
 近日中に公式のWebサイトを用意する予定。
 
 -------------------------------------------------------
