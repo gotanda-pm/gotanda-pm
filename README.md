@@ -45,4 +45,4 @@ Contribute
 Gotanda.pmは有志により運営されるコミュニティです。
 善意による支援の申し出を積極的に受け入れます。
 意見や提案などはGithub issueにてお願い致します。
-コアメンバーとして運営に携わりたい方は @karupanerura までご連絡下さい。
+コアメンバーとして運営に携わりたい方は[@karupanerura](https://github.com/karupanerura)までご連絡下さい。
