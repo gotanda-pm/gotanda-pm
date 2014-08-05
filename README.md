@@ -1,3 +1,3 @@
 Gotanda.pm とは
 =======================================================
-SEE ALSO: [http://gotanda-pm.github.io/](http://gotanda-pm.github.io/)
+SEE ALSO: [http://gotanda-pm.github.io/about.html](http://gotanda-pm.github.io/about.html)
